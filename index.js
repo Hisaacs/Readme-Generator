@@ -1,6 +1,6 @@
 // importing required files
 const inquirer = require("inquirer");
-const generatorMarkdown = require("./generateMarkdown")
+const generatorMarkdown = require("./utils/generateMarkdown")
 const fs = require("fs");
 
 // An array of questions for user
@@ -12,58 +12,26 @@ const questions = [
         message: 'What is the title of your project?'
     },
 
-    {
-        type: 'input',
-        name: 'description',
-        message: 'Please provide description of your project:'
-    },
-
-
-    {
-        type: 'input',
-        name: 'installation',
-        message: 'Please provide installation instructions for your project:'
-    },
-
-    {
-        type: 'input',
-        name: 'usage information',
-        message: 'Please provide usage information for your project:'
-    },
-
-    {
-        type: 'input',
-        name: 'contributions guidelines',
-        message: 'Please advise any contributions guidelines you have made:'
-
-    },
-
-    {
-        type: 'input',
-        name: 'test instructions',
-        message: 'Please advise test instructions for your project:'
-    },
-    {
-        type: 'list',
-        name: 'license',
-        choices: ['None', 'Apache License 2.0', 'GNU General Public License v3.0',
-            'MIT License', 'BSD 2-Clause Simplified License', 'BSD 3-Clause New or Revised License',
-            'Boost Software License 1.0'
-        ]
-    }
-
-
-
+    
 ];
 
 // function to write README file
 function writeToFile(fileName, data) {
 
+    fs.writeFile("./"+fileName, data, function(err) {
+        if (err) {
+          return console.log(err);
+        }
+        console.log ("Successfully wrote: " + fileName);
+    });
 }
 
 // function to initialize program
 function init() {
-
+    inquirer.prompt(questions)
+    .then(function(data) {
+      writeToFile("README.md", generatorMarkdown(data));
+    });
 }
 
 // function call to initialize program
