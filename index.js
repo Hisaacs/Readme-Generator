@@ -1,8 +1,9 @@
+// importing required files
 const inquirer = require("inquirer");
 const generatorMarkdown = require("./generateMarkdown")
-const fs = require("fs"); 
+const fs = require("fs");
 
-// array of questions for user
+// An array of questions for user
 const questions = [
 
     {
@@ -41,13 +42,23 @@ const questions = [
         type: 'input',
         name: 'test instructions',
         message: 'Please advise test instructions for your project:'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        choices: ['None', 'Apache License 2.0', 'GNU General Public License v3.0',
+            'MIT License', 'BSD 2-Clause Simplified License', 'BSD 3-Clause New or Revised License',
+            'Boost Software License 1.0'
+        ]
     }
 
-    
+
+
 ];
 
 // function to write README file
 function writeToFile(fileName, data) {
+
 }
 
 // function to initialize program
