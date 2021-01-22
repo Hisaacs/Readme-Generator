@@ -1,3 +1,5 @@
+Preview Video:
+
 
 # README-Generator
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hisaacs/README-Generator)
@@ -42,5 +44,9 @@ To run tests, you need to run the following command: To test functionality, run 
 
 # Questions
 
+<<<<<<< HEAD
 If you have any questions about the repo, please contact Hisaacs directly hisaac@gmail.com.
+=======
+If you have any questions about the repo, please contact Hisaacs directly hamisaacs@gmail.com.
+>>>>>>> 1eedcf0296835799f7bd9e50e2030ca2d4ca9530
 
