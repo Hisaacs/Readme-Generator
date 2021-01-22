@@ -44,5 +44,5 @@ To run tests, you need to run the following command: To test functionality for y
 
 # Questions
 
-If you have any questions about the repo, open an issue or contact Hisaacs directly hamisaacs@gmail.com.
+If you have any questions about the repo, please contact Hisaacs directly hamisaacs@gmail.com.
 
