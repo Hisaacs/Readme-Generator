@@ -28,7 +28,7 @@ The following necessary dependencies must be installed to run the application pr
 
 # Usage
 
-How to use application ${data.Usage}
+How to use this application. ${data.Usage}
 
 # License
 

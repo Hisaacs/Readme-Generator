@@ -26,7 +26,7 @@ The following necessary dependencies must be installed to run the application pr
 
 # Usage
 
-​This application is used for To use application. First install inquirer an fs (file system)dependencies.
+How to use this application First install inquirer an fs (file system)dependencies.
 
 # License
 
@@ -34,7 +34,7 @@ This project is license under the MIT License license.
 
 # Contributing
 
-​Contributors: I have made contribution to this project.
+​Contributors: I have contributed to this project.
 
 # Tests
 
