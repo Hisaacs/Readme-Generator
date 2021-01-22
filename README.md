@@ -1,6 +1,6 @@
 
 # README-Generator
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/username/README-Generator)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hisaacs/README-Generator)
 
 # Description
 
@@ -26,7 +26,7 @@ The following necessary dependencies must be installed to run the application pr
 
 # Usage
 
-How to use this application First install inquirer an fs (file system)dependencies.
+How to use this application. First install inquirer an fs (file system)dependencies.
 
 # License
 
@@ -42,5 +42,5 @@ To run tests, you need to run the following command: To test functionality, run 
 
 # Questions
 
-If you have any questions about the repo, please contact username directly someone@gmail.com.
+If you have any questions about the repo, please contact Hisaacs directly hisaac@gmail.com.
 
