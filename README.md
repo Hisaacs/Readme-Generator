@@ -1,6 +1,5 @@
 Preview Video:
 
-![ScreenGif (1)](https://user-images.githubusercontent.com/19741669/105495338-070e7e80-5cf7-11eb-8e84-57b6bae0d7b3.gif)
 
 # README-Generator
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hisaacs/README-Generator)
