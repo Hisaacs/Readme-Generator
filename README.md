@@ -1,5 +1,5 @@
-Preview:
-https://user-images.githubusercontent.com/19741669/105433888-7489c300-5c95-11eb-9617-fefae8ec4796.mp4
+Preview Video:
+
 
 # README-Generator
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hisaacs/README-Generator)
