@@ -1,10 +1,10 @@
 
 # README-Generator
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hisaacs/README-Generator)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/username/README-Generator)
 
 # Description
 
-This is a command-line application that dynamically generates a professional README.md from user input, using Inquirer package. Also, an application that allows the user to quickly and easily genearate a README.md file for a project.
+This is a command-line application that generates a professional README.md from user input, using the npm Inquirer package. Also, an application that will allow a user quickly and easily generated a README.md for any project.
 
 # Table of Contents 
 
@@ -22,11 +22,11 @@ This is a command-line application that dynamically generates a professional REA
 
 # Installation
 
-The following necessary dependencies must be installed to run the application properly: Firstly, Fork the GitHub repository and copy it to your local machine. Secondly, open Gitbash or terminal and run npm i inquirer and npm i fs commands, then run node index.js to begin your application.
+The following necessary dependencies must be installed to run the application properly: Fistly, Fork the GitHub repository an copy it to your local machine. Secondly, open gitbash or terminal and run npm i inquirer and npm i fs commands, then run node index.js to begin / start your application.
 
 # Usage
 
-​This application is used for To use this application. First you will need to install inquirer and fs (file system) dependencies.
+​This application is used for To use application. First install inquirer an fs (file system)dependencies.
 
 # License
 
@@ -34,13 +34,13 @@ This project is license under the MIT License license.
 
 # Contributing
 
-​Contributors: I have contributed to this project.
+​Contributors: I have made contribution to this project.
 
 # Tests
 
-To run tests, you need to run the following command: To test functionality for your application, run node index.js in your terminal.
+To run tests, you need to run the following command: To test functionality, run node index.js in your terminal.
 
 # Questions
 
-If you have any questions about the repo, open an issue or contact Hisaacs directly hamisaacs@gmail.com.
+If you have any questions about the repo, please contact username directly someone@gmail.com.
 

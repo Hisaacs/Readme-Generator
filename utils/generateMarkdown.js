@@ -28,7 +28,7 @@ The following necessary dependencies must be installed to run the application pr
 
 # Usage
 
-​This application is used for ${data.Usage}
+How to use application ${data.Usage}
 
 # License
 
@@ -44,7 +44,7 @@ To run tests, you need to run the following command: ${data.Test}
 
 # Questions
 
-If you have any questions about the repo, open an issue or contact ${data.UserName} directly ${data.Email}.
+If you have any questions about the repo, please contact ${data.UserName} directly ${data.Email}.
 
 `
 }
