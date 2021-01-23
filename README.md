@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# Preview video
+* This is a preview of how the application functions.
+![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/105563746-3a362980-5d5a-11eb-84da-160295634ef9.gif)
+>>>>>>> 441c30eeac38af84f2f39f8438cdd98e4dbbdba0
 
 # README-Generator
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hisaacs/README-Generator)
