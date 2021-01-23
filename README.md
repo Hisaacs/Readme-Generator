@@ -56,3 +56,8 @@ To run tests, you need to run the following command: To test functionality, run 
 
 If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
 
+# Acknowledgements
+
+* Trilogy Education & UWA Coding Bootcamp - for making this bootcamp possible.
+* Instructors Luca, Sam and Renata - for spending time in teaching and sharing their knowledge.
+
