@@ -1,9 +1,6 @@
-# Preview video
-
-![Readme-Generator](https://user-images.githubusercontent.com/19741669/105502548-82c0f900-5d00-11eb-8fe2-8d40c1aaa905.gif)
 
 # README-Generator
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hisaacs/README-Generator)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hisaacs/README-Generator)
 
 # Description
 
@@ -23,6 +20,8 @@ This is a command-line application that generates a professional README.md from 
 
 * [Questions](#questions)
 
+* [Acknowledgements](#acknowledgements)
+
 # Installation
 
 The following necessary dependencies must be installed to run the application properly: Fistly, Fork the GitHub repository an copy it to your local machine. Secondly, open gitbash or terminal and run npm i inquirer and npm i fs commands, then run node index.js to begin / start your application.
@@ -37,7 +36,7 @@ This project is license under the MIT License license.
 
 # Contributing
 
-​Contributors: I have contributed to this project.
+​Contributors: I contributed to this project.
 
 # Tests
 
@@ -45,5 +44,8 @@ To run tests, you need to run the following command: To test functionality, run 
 
 # Questions
 
-If you have any questions about the repo, please contact hisaacs directly hamisaac@gmail.com.
+If you have any questions about the repo, please contact Hisaacs directly hisaacs@gmail.com.
 
+#Acknowledgement
+* Trilogy Education & UWA Coding Bootcamp - for making this bootcamp possible.
+* Instructors Luca, Sam and Renata - for spending time in teaching and sharing their knowledge.
