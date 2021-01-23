@@ -1,11 +1,6 @@
 
-# Preview video
-* This is a preview of how the application functions.
-![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/105563746-3a362980-5d5a-11eb-84da-160295634ef9.gif)
-
-
 # README-Generator
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hisaacs/README-Generator)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hisaacs/README-Generator)
 
 # Description
 
@@ -49,8 +44,9 @@ To run tests, you need to run the following command: To test functionality, run 
 
 # Questions
 
-If you have any questions about the repo, please contact Hisaacs directly hisaacs@gmail.com.
+If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
 
 # Acknowledgements
+
 * Trilogy Education & UWA Coding Bootcamp - for making this bootcamp possible.
 * Instructors Luca, Sam and Renata - for spending time in teaching and sharing their knowledge.
