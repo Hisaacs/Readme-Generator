@@ -56,13 +56,7 @@ const questions = [
         message: "What is your email address?",
         name: "Email",
       },
-      {
-        type: "input",
-        message: "Whom would you like to acknowledge in this course?",
-        name: "Acknowledgements",
-      },
-
-
+  
   ];
   
 

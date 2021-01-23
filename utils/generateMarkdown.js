@@ -48,10 +48,6 @@ To run tests, you need to run the following command: ${data.Test}
 
 If you have any questions about the repo, please contact ${data.UserName} directly ${data.Email}.
 
-# Acknowledgements
-
-* Trilogy Education & UWA Coding Bootcamp - for making this bootcamp possible.
-* Instructors ${data.Acknowledgements} - for spending time in teaching and sharing their knowledge.
 `
 }
 

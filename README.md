@@ -1,8 +1,14 @@
-# Preview
+
+# Link to video
+
+* https://www.dropbox.com/s/7lo0b548lou7pt5/Readme-2-Generator.gif?dl=0
+
+# Preview video
 
 * Video demonstrating application functionality.
 
 ![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/105566906-994f6a80-5d69-11eb-9cea-ce2559b70058.gif)
+
 
 # README-Generator
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hisaacs/README-Generator)
