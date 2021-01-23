@@ -9,7 +9,6 @@
 
 ![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/105566906-994f6a80-5d69-11eb-9cea-ce2559b70058.gif)
 
-
 # README-Generator
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hisaacs/README-Generator)
 
@@ -57,7 +56,3 @@ To run tests, you need to run the following command: To test functionality, run 
 
 If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
 
-# Acknowledgements
-
-* Trilogy Education & UWA Coding Bootcamp - for making this bootcamp possible.
-* Instructors Luca, Sam and Renata - for spending time in teaching and sharing their knowledge.
