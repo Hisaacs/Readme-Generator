@@ -1,6 +1,6 @@
 # Preview video
-
-![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/105563555-6c935700-5d59-11eb-865a-a4ce606ebe77.gif)
+* This is a preview of how the application functions.
+![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/105563746-3a362980-5d5a-11eb-84da-160295634ef9.gif)
 
 # README-Generator
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hisaacs/README-Generator)
