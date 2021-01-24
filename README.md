@@ -56,6 +56,9 @@ To run tests, you need to run the following command: To test functionality, run 
 
 If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
 
+# GitHub: URL
+* https://github.com/Hisaacs/README-Generator
+
 # Acknowledgements
 
 * Trilogy Education & UWA Coding Bootcamp - for making this bootcamp possible.
