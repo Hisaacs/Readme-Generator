@@ -56,7 +56,7 @@ To run tests, you need to run the following command: To test functionality, run 
 
 # Questions
 
-If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
+If you have any questions about the repo, please contact hisaacs directly hamisaacs@gmail.com.
 
 # Acknowledgements
 
