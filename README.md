@@ -1,11 +1,11 @@
 
-## GitHub: URL
+### GitHub: URL
 * https://github.com/Hisaacs/README-Generator
 
-## Link to video
+### Link to video
 * https://www.dropbox.com/s/7lo0b548lou7pt5/Readme-2-Generator.gif?dl=0
 
-## Preview video
+### Preview video
 
 * Video demonstrating application functionality.
 
