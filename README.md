@@ -1,6 +1,8 @@
 
-# Link to video
+# GitHub: URL
+* https://github.com/Hisaacs/README-Generator
 
+# Link to video
 * https://www.dropbox.com/s/7lo0b548lou7pt5/Readme-2-Generator.gif?dl=0
 
 # Preview video
@@ -55,9 +57,6 @@ To run tests, you need to run the following command: To test functionality, run 
 # Questions
 
 If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
-
-# GitHub: URL
-* https://github.com/Hisaacs/README-Generator
 
 # Acknowledgements
 
